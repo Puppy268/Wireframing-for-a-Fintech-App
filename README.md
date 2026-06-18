@@ -57,7 +57,7 @@ ShareBite provides a platform where users can easily share surplus food with nea
 
 ## 📷 Wireframe
 
-![Food Sharing App Wireframe](Wireframe.png)
+![Wireframing-for-a-Fintech-App](Wireframe.png)
 
 ## 🚀 Future Improvements
 
