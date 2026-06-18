@@ -1,6 +1,6 @@
 # Wireframing-for-a-Fintech-App
  
-# ShareBite - Food Sharing Mobile App (UI/UX)
+Food Sharing Mobile App (UI/UX)
 
 ## 📖 Project Overview
 
