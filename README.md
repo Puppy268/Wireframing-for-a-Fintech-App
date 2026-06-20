@@ -3,7 +3,7 @@
 
 
 ## 📖 Project Overview
-Wireframing-for-a-Fintech-App is a mobile application designed to reduce food waste by connecting people who have extra food with those who need it.
+Sharebite is a mobile application designed to reduce food waste by connecting people who have extra food with those who need it.
 Users can post available food, discover nearby food items, and manage their requests through a simple and intuitive interface.
 
 ---
@@ -11,7 +11,7 @@ Users can post available food, discover nearby food items, and manage their requ
 ## 🎯 Problem Statement
 
 Large amounts of food are wasted every day while many people struggle to access meals. 
- Wireframing-for-a-Fintech-App provides a platform where users can easily share surplus food with nearby communities.
+Sharebite provides a platform where users can easily share surplus food with nearby communities.
 
 ---
 
