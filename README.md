@@ -1,6 +1,6 @@
 # Wireframing-for-a-Fintech-App
  
-Food Sharing Mobile App (UI/UX)
+
 
 ## 📖 Project Overview
 
